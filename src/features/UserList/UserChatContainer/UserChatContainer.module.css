@@ -1,0 +1,21 @@
+/*.components {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    height: 100vh;*/
+/*}*/
+/*.messageScreen {*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    !*justify-content: flex-end;*!*/
+/*    height: 100%;*/
+/*    overflow: auto;*/
+/*    !*overflow-y: scroll;*!*/
+/*    background-color: #b7d0fc;*/
+/*}*/
+/*flex-grow: 1;*/
+.components {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}

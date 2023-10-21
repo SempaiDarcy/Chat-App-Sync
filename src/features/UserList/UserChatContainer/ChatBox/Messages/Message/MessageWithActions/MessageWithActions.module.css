@@ -1,0 +1,17 @@
+.messageBlock {
+    background-color: #ffffff;
+    border-radius: 10px;
+    padding: 15px 5px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.icons {
+    font-size: 14px;
+    align-self: flex-end;
+    cursor: pointer;
+    color: #ffffff;
+    display: flex;
+    gap: 5px;
+}

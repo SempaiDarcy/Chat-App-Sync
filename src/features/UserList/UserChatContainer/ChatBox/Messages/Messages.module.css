@@ -1,0 +1,35 @@
+.messageScreen {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-color: #14409700;
+    min-height: 88vh;
+}
+@media (max-width:1600px) {
+    .messageScreen {
+        min-height: 85vh;
+    }
+}
+/* Стили для полосы прокрутки */
+::-webkit-scrollbar {
+    width: 5px;  /* Ширина вертикальной полосы прокрутки */
+    height: 5px; /* Высота горизонтальной полосы прокрутки */
+}
+
+/* Стили для трека (фона) полосы прокрутки */
+::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.1);  /* Полупрозрачный фон */
+    border-radius: 10px;  /* Закругленные углы */
+}
+
+/* Стили для самой ползунка прокрутки */
+::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.3);  /* Полупрозрачный цвет */
+    border-radius: 10px;  /* Закругленные углы */
+    transition: background 0.3s;  /* Плавное изменение цвета при наведении */
+}
+
+/* Стили для ползунка прокрутки при наведении курсора */
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.5);  /* Более темный цвет при наведении */
+}

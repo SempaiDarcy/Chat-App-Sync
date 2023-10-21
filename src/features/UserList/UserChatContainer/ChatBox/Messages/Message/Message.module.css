@@ -1,0 +1,9 @@
+.block {
+    display: flex;
+    margin: 10px 0;
+}
+
+.myMessage {
+    display: flex;
+    flex-direction: row-reverse;
+}
