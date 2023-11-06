@@ -1,46 +1,33 @@
-# Getting Started with Create React App
+# Название Приложения Чата
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Описание
 
-## Available Scripts
+Это приложение чата позволяет двум пользователям отправлять сообщения друг другу в реальном времени. Каждый пользователь может изменять свой профиль, включая аватар и обои чата, а также имеет возможность удалять сообщения из чата.
 
-In the project directory, you can run:
+## Функции
 
-### `yarn start`
+- **Отправка и получение сообщений**: Пользователи могут обмениваться текстовыми сообщениями в реальном времени.
+- **Управление профилем**: Пользователи могут изменять свое имя и загружать новые аватары.
+- **Настройка обоев чата**: Пользователи могут изменять фон чата, выбирая из предоставленных обоев или загружая свои изображения.
+- **Управление сообщениями**:
+  - **Редактирование собственных сообщений**: Пользователи могут редактировать свои сообщения после отправки, что позволяет исправлять ошибки или обновлять информацию без необходимости удалять и пересылать сообщение.
+  - **Удаление собственных сообщений**: Пользователи могут удалять свои сообщения. При выборе опции "Удалить у меня" сообщение удаляется только с экрана пользователя. При выборе "Удалить у всех" сообщение удаляется как с экрана пользователя, так и с экрана собеседника.
+  - **Удаление сообщений собеседника**: Пользователи могут удалять сообщения собеседника только со своего экрана. Эти сообщения останутся видимыми для собеседника на его устройстве.
+- **Удаление чата**: Пользователи могут полностью удалить чат.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Технологии
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Приложение создано с использованием следующих технологий и библиотек:
 
-### `yarn test`
+- React.js
+- Redux для управления состоянием
+- Material UI для дизайна интерфейса
+- TypeScript для типизации кода
+- UUID для генерации уникальных идентификаторов
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `yarn build`
+Главная страница:
+![App Screenshot](https://user-images.githubusercontent.com/65185324/280773713-f628fa18-72a1-468e-87a4-86b6dafd25f4.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
