@@ -17,6 +17,7 @@
     border-radius: 50%;
     align-self: center;
     margin: 5px;
+    border: 1px solid white;
 }
 
 .name{
@@ -25,8 +26,13 @@
     color: #a7e4ff;
 }
 
-.setting{
-    align-self: center;
-    margin: 15px;
-    font-size: 40px;
+/*.setting{*/
+/*    align-self: center;*/
+/*    margin: 15px;*/
+/*    font-size: 40px;*/
+/*}*/
+.profileActions {
+    /*min-width: 200px;*/
+    /*display: flex;*/
+    /*flex-direction: row-reverse;*/
 }

@@ -10,10 +10,6 @@
     border-radius: 25px;
     border: 1px solid white;
 }
-.time {
-    color: #037fba;
-    border-radius: 5px;
-}
 img {
     object-fit: cover;
 }
