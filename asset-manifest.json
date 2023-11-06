@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Simple-Chat-App/static/css/main.661dec4c.css",
+    "main.js": "/Simple-Chat-App/static/js/main.9df34d45.js",
+    "static/js/787.6f726199.chunk.js": "/Simple-Chat-App/static/js/787.6f726199.chunk.js",
+    "static/media/wall3.jpeg": "/Simple-Chat-App/static/media/wall3.2b5bc2b80b1ab023e483.jpeg",
+    "static/media/wall2.jpeg": "/Simple-Chat-App/static/media/wall2.b99feedd16fa86361b76.jpeg",
+    "static/media/wall5.jpeg": "/Simple-Chat-App/static/media/wall5.4729781e7238fa5e6292.jpeg",
+    "static/media/wall4.jpeg": "/Simple-Chat-App/static/media/wall4.7698ea6f0156971cd73e.jpeg",
+    "static/media/wall9.jpeg": "/Simple-Chat-App/static/media/wall9.f2cd02b4881eed29ade6.jpeg",
+    "static/media/wall7.jpeg": "/Simple-Chat-App/static/media/wall7.d5b9f512537b3c7842d9.jpeg",
+    "static/media/wall12.jpeg": "/Simple-Chat-App/static/media/wall12.3619d3915eb363a4b843.jpeg",
+    "static/media/wall10.jpg": "/Simple-Chat-App/static/media/wall10.118aa2db46a43fc71fd7.jpg",
+    "static/media/wall1.jpg": "/Simple-Chat-App/static/media/wall1.4bb9524b31cfdfc0681b.jpg",
+    "static/media/elizabeth.jpg": "/Simple-Chat-App/static/media/elizabeth.38bb06902cda4f45f140.jpg",
+    "static/media/wall11.jpg": "/Simple-Chat-App/static/media/wall11.6b29053ef9687e4ad062.jpg",
+    "static/media/darcy.jpg": "/Simple-Chat-App/static/media/darcy.4d42b6a65f0b9c394876.jpg",
+    "static/media/wall8.webp": "/Simple-Chat-App/static/media/wall8.a8fbb09155a9116e476a.webp",
+    "static/media/wall6.jpeg": "/Simple-Chat-App/static/media/wall6.6b9461e6ead255f7d4f8.jpeg",
+    "index.html": "/Simple-Chat-App/index.html",
+    "main.661dec4c.css.map": "/Simple-Chat-App/static/css/main.661dec4c.css.map",
+    "main.9df34d45.js.map": "/Simple-Chat-App/static/js/main.9df34d45.js.map",
+    "787.6f726199.chunk.js.map": "/Simple-Chat-App/static/js/787.6f726199.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.661dec4c.css",
+    "static/js/main.9df34d45.js"
+  ]
+}
